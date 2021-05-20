@@ -1,0 +1,5 @@
+git init
+npm init
+create folders
+update package with callback command
+    npm run callback

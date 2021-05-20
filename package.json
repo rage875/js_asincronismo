@@ -1,0 +1,16 @@
+{
+  "name": "js_asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "callback" : "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Luis03",
+  "license": "MIT"
+}
