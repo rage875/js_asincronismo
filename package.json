@@ -7,7 +7,8 @@
     "callback": "node src/callback/index.js",
     "callback-peticion": "node src/callback/peticion_api.js",
     "promise": "node src/promise/index.js",
-    "promise-peticion": "node src/promise/peticion_api.js"
+    "promise-peticion": "node src/promise/peticion_api.js",
+    "async": "node src/async/index.js"
   },
   "keywords": [
     "callbacks",
